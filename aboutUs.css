@@ -62,3 +62,35 @@ h1,h2,h3,h4,p{
     text-shadow: 0px 0px 20px aqua, 2px 2px 20px yellow, -2px -2px 20px green;
     color: aqua;
 }
+.ProjectsBorders{
+    display: inline-block;
+    padding: 5vw;
+    text-align: center
+
+}
+.ProjectShowcase, .ProjectText{
+    display: block;
+    font-size: 2.5vw;
+}
+.ProjectShowcase{
+    display: inline-block;
+    box-shadow: 0.2rem 0.2rem 0.5rem white, 0rem 0rem 3rem black;
+}
+#ATM:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem pink, 0rem 0rem 3rem black;
+}
+#Notebook:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem palegoldenrod, 0rem 0rem 3rem black;
+}
+#Calc:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem greenyellow, 0rem 0rem 3rem black;
+}
+#CPick:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem palegreen, 0rem 0rem 3rem black;
+}
+#Gym:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem rgb(255, 86, 86), 0rem 0rem 3rem black;
+}
+#Freelance:hover{
+    box-shadow: 0.2rem 0.2rem 0.9rem palevioletred, 0rem 0rem 3rem black;
+}

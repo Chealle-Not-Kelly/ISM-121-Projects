@@ -62,3 +62,12 @@ h1,h2,h3,h4,p{
     text-shadow: 0px 0px 20px aqua, 2px 2px 20px yellow, -2px -2px 20px green;
     color: aqua;
 }
+.ContactImage{
+    display: inline;
+    width: 12vw;
+    height: 25vh;
+}
+.ContactText{
+    display: inline-block;
+    text-align: center;
+}
