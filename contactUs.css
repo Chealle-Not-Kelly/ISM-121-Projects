@@ -64,10 +64,19 @@ h1,h2,h3,h4,p{
 }
 .ContactImage{
     display: inline;
-    width: 12vw;
-    height: 25vh;
+    width: 5vw;
+    height: 5.5vh;
 }
 .ContactText{
     display: inline-block;
+    font-size: 1.5vw;
     text-align: center;
+}
+label{
+    font-size: 1.5vw;
+    color: aliceblue;
+}
+#AboutBox{
+    width: 23vw;
+    height: 15vh;
 }
